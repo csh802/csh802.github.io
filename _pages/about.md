@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a senior in Fuzhou University, Fujian, China, who major in Mechanical Design and Automation. My research interests focus on nonlinear control and deep learning. You can click [here](https://shannongsr.github.io/cv/) to view my curriculum vitae.
+I am a senior in Fuzhou University, Fujian, China, who major in Mechanical Design and Automation. My research interests focus on nonlinear control and deep learning. You can click [here](https://csh802.github.io/cv/) to view my curriculum vitae.
 
 # About me
 During my undergraduate period I received the guidance of Prof. Weilin Luo. He is also generously helping me with my graduation thesis, which addresses the hovering control of an underwater robot. 
