@@ -17,6 +17,6 @@ During my undergraduate period I received the guidance of Prof. Weilin Luo. He i
 My campus life is colourful and unforgettable. But the most enjoyable part for me must be the two experiences in National Undergraduate Electronics Design Contest, in which I and my teammates worked together on embedded systems. In return, we won Provincial Third Prize in 2021, then Second Prize in 2022. Taking part in such competitions really stimulates you to learn things.
 
 Our team has made an access control system for curriculum design. I have done the main program in C, the tracking control system in MicroPython and the editing of this video.
-![access control system.mp4](../files/access control system.mp4)
+[access control system.mp4](../files/access control system.mp4)
 
 Now I'm preparing entrance exams for postgraduate, aiming at [South China University of Technology](https://www.scut.edu.cn/new/). I'm looking forward to join the brand new environment and cooperate with new friends!
