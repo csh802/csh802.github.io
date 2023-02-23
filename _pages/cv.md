@@ -42,7 +42,7 @@ Project experience
   * Introduction: An access control security system controlled by Arduino UNO and K210. It has the functions of face recognition, entrants and exits detection, and can use a nerf gun turret to expel burglars via object tracking.
   * Duties included: MicroPython and C program; editing of [promotional video](../files/access control system. Mp4)
   * Project Achievement: be marked as the best curriculum design in "Microcomputer Principle" course
-<video src="/files/access control system.mp4" position= "absolute" width="70%" height="70%" controls="controls"></video>
-  
+    <video src="/files/access control system.mp4" position= "absolute" width="70%" height="70%" controls="controls"></video>
+
 
 
