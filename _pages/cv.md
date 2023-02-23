@@ -37,12 +37,12 @@ Project experience
 * 2021: Hospital Delivery Robot Using Embedded Computer Vision 
   * Introduction: A delivery vehicle controlled by esp32 and K210, which can acquire tasks via object detection and complete delivery tasks autonomously
   * Duties included: MicroPython and C program
-  * Project Achievement: Provincial Third Prize of National Undergraduate Electronics Design Contest
+  * Project achievement: Provincial Third Prize of National Undergraduate Electronics Design Contest
 
 * 2022: Student Dormitory Security System Based on Object Detection and Tracking
   * Introduction: An access control security system controlled by Arduino UNO and K210. It has the functions of face recognition, entrants and exits detection, and can use a nerf gun turret to expel burglars via object tracking.
   * Duties included: MicroPython and C program; editing of [promotional video](../files/access control system. Mp4)
-  * Project Achievement: be marked as the best curriculum design in "Microcomputer Principle" course
+  * Project achievement: be marked as the best curriculum design in "Microcomputer Principle" course
     <video src="/files/access control system.mp4" position= "absolute" width="70%" height="70%" controls="controls"></video>
 
 
