@@ -14,6 +14,7 @@ Education
 * B.E. in Mechanical Design and Automation, [Fuzhou University](https://www.fzu.edu.cn), 2023 (expected)
   + GPA: 3.30 (15%)
   + CET4: 544; CET6: 518
+  + Courses studied: Fundamentals of Mechanical Design, Applied Numerical Analysis, Robotics, Microprocessor Principles, Electrical Engineering, Introduction to Experimental Fluid Dynamics, etc.
 
 
 Skills
