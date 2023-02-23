@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Mechanical Design and Automation, [Fuzhou University](https://www.fzu.edu.cn), 2023 (expected)
+  + GPA: 3.30 (15%)
+  + CET4: 544; CET6: 518
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++ and Python programming
+  * Microcontroller program of STM32, ESP32 or Arduino boards. Also familiar with FreeRTOS.
+  * Object detection via Pytorch and YOLOv5.
+  * Simple mathematical modelling using Python.
+* Mechanical engineering skills
+  * Mechanical drawing using AutoCAD; 3D modelling using Creo.
+  * Control system analysis via Matlab and Simulink.
+  * CFD using COMSOL
+* Other skills
+  * Video editing using Adobe Premiere
+  * Audio mixing using Reaper and Studio One
 
-Publications
+
+Project experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2021: Hospital Delivery Robot Using Embedded Computer Vision 
+  * Introduction: A delivery vehicle controlled by esp32 and K210, which can acquire tasks via object detection and complete delivery tasks autonomously
+  * Duties included: MicroPython and C program
+  * Project Achievement: Provincial Third Prize of National Undergraduate Electronics Design Contest
+
+* 2022: Student Dormitory Security System Based on Object Detection and Tracking
+  * Introduction: An access control security system controlled by Arduino UNO and K210. It has the functions of face recognition, entrants and exits detection, and can use a nerf gun turret to expel burglars via object tracking.
+  * Duties included: MicroPython and C program; editing of [promotional video](../files/access control system. Mp4)
+  * Project Achievement: be marked as the best curriculum design in "Microcomputer Principle" course
+<video src="/files/access control system.mp4" position= "absolute" width="70%" height="70%" controls="controls"></video>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
