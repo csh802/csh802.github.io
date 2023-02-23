@@ -21,5 +21,5 @@ Our team has made an access control system as a curriculum design. I have done t
 <video src="/files/access control system.mp4" position= "absolute" width="100%" height="100%" controls="controls"></video>
 
 
-# A glance to the future
+# A glance into the future
 Now I'm preparing entrance exams for postgraduate, aiming at [South China University of Technology](https://www.scut.edu.cn/new/). I'm looking forward to join the brand new environment and cooperate with new friends!
