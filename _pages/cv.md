@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.E. in Mechanical Design and Automation, [Fuzhou University](https://www.fzu.edu.cn), 2023 (expected)
+* B.E. in Mechanical Design & Manufacturing and Their Automation, [Fuzhou University](https://www.fzu.edu.cn), 2023 (expected)
   + GPA: 3.30 (15%)
   + CET4: 544; CET6: 518
   + Courses studied: Fundamentals of Mechanical Design, Applied Numerical Analysis, Robotics, Microprocessor Principles, Electrical Engineering, Introduction to Experimental Fluid Dynamics, etc.
@@ -41,7 +41,7 @@ Project experience
 
 * 2022: Student Dormitory Security System Based on Object Detection and Tracking
   * Introduction: An access control security system controlled by Arduino UNO and K210. It has the functions of face recognition, entrants and exits detection, and can use a nerf gun turret to expel burglars via object tracking.
-  * Duties included: MicroPython and C program; editing of [promotional video](../files/access control system. Mp4)
+  * Duties included: MicroPython and C program; editing of [demo video](../files/access control system. Mp4)
   * Project achievement: be marked as the best curriculum design in "Microcomputer Principle" course
     <video src="/files/access control system.mp4" position= "absolute" width="70%" height="70%" controls="controls"></video>
 
